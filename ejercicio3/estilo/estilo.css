@@ -1,0 +1,92 @@
+.bnomal{
+	border-radius: 3px;
+	border-style: none;
+	padding: 10px;
+	color:#716f77;
+}
+.bpequeño{
+	border-radius: 3px;
+	border-style: none;
+	padding: 8px;
+	font-size: 0.6em;
+	color:#716f77;
+}
+.bgrande{
+	border-radius: 3px;
+	border-style: none;
+	padding: 14px;
+	font-size: 1.1em;
+	color:#716f77;
+}
+.besmeralda{
+	background-color: #57d68d;
+	color: #fff;
+}
+.bcielo{
+	background-color: #5cace2;
+	color: #fff;
+}
+.bamatista{
+	background-color: #ae7ac4;
+	color: #fff;
+}
+.basfalto{
+	background-color: #5c6d7e;
+	color: #fff;
+}
+.btopazio{
+	background-color: #ea974e;
+	color: #fff;
+}
+.brubi{
+	background-color: #eb6f62;
+	color: #fff;
+}
+.bsimple{
+	background-color:#fff ;
+	border: 1px;
+	border-color:#716f77; 
+	border-style:solid;
+}
+.besmeraldaInverso{
+	background-color:#fff ;
+	color: #57d68d;
+	border: 1px;
+	border-color: #57d68d;
+	border-style:solid;
+}
+.bcieloInverso{
+	background-color: #fff ;
+	color: #5cace2;
+	border: 1px;
+	border-color:#5cace2; 
+	border-style:solid;
+}
+.bamatistaInverso{
+	background-color: #fff;
+	color: #ae7ac4;
+	border: 1px;
+	border-color:#ae7ac4; 
+	border-style:solid;
+}
+.basfaltoInverso{
+	background-color: #fff;
+	color: #5c6d7e;
+	border: 1px;
+	border-color:#5c6d7e; 
+	border-style:solid;
+}
+.btopazioInverso{
+	background-color: #fff;
+	color: #ea974e;
+	border: 1px;
+	border-color:#ea974e; 
+	border-style:solid;
+}
+.brubiInverso{
+	background-color: #fff;
+	color: #eb6f62;
+	border: 1px;
+	border-color:#eb6f62; 
+	border-style:solid;
+}
